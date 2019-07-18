@@ -1,0 +1,13 @@
+D:\微软的文档\VisualStudioProject\RealSense开发\RealsenseSharpgl\RealsenseSharpgl\bin\x86\Debug\HalconDll.dll
+D:\微软的文档\VisualStudioProject\RealSense开发\RealsenseSharpgl\RealsenseSharpgl\bin\x86\Debug\HalconDll.pdb
+D:\微软的文档\VisualStudioProject\RealSense开发\HalconDll\obj\Debug\HalconDll.csproj.CoreCompileInputs.cache
+D:\微软的文档\VisualStudioProject\RealSense开发\HalconDll\obj\Debug\HalconDll.csproj.CopyComplete
+D:\微软的文档\VisualStudioProject\RealSense开发\HalconDll\obj\Debug\HalconDll.dll
+D:\微软的文档\VisualStudioProject\RealSense开发\HalconDll\obj\Debug\HalconDll.pdb
+F:\VSProjects\绝缘子三维扫描系统\HalconDll\obj\Debug\HalconDll.csprojResolveAssemblyReference.cache
+F:\VSProjects\绝缘子三维扫描系统\HalconDll\obj\Debug\HalconDll.csproj.CoreCompileInputs.cache
+F:\VSProjects\绝缘子三维扫描系统\HalconDll\obj\Debug\HalconDll.dll
+F:\VSProjects\绝缘子三维扫描系统\HalconDll\obj\Debug\HalconDll.pdb
+F:\VSProjects\绝缘子三维扫描系统\RealsenseSharpgl\RealsenseSharpgl\bin\x86\Debug\HalconDll.dll
+F:\VSProjects\绝缘子三维扫描系统\RealsenseSharpgl\RealsenseSharpgl\bin\x86\Debug\HalconDll.pdb
+F:\VSProjects\绝缘子三维扫描系统\HalconDll\obj\Debug\HalconDll.csproj.CopyComplete

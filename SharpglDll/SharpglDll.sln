@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpglDll", "SharpglDll\SharpglDll.csproj", "{414C78A0-E3D8-4B13-AC40-002E80109274}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|SharpglDll x86 = Debug|SharpglDll x86
+		Release|SharpglDll x86 = Release|SharpglDll x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{414C78A0-E3D8-4B13-AC40-002E80109274}.Debug|SharpglDll x86.ActiveCfg = Debug|x86
+		{414C78A0-E3D8-4B13-AC40-002E80109274}.Debug|SharpglDll x86.Build.0 = Debug|x86
+		{414C78A0-E3D8-4B13-AC40-002E80109274}.Release|SharpglDll x86.ActiveCfg = Release|x86
+		{414C78A0-E3D8-4B13-AC40-002E80109274}.Release|SharpglDll x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7DBC9D8-37DE-4717-9F28-6CECA7E131D3}
+	EndGlobalSection
+EndGlobal

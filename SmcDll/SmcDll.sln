@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmcDll", "SmcDll\SmcDll.csproj", "{09413AD7-3AA7-47DF-B52E-D85848F60BC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|SmcDll x86 = Debug|SmcDll x86
+		Release|SmcDll x86 = Release|SmcDll x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09413AD7-3AA7-47DF-B52E-D85848F60BC8}.Debug|SmcDll x86.ActiveCfg = Debug|x86
+		{09413AD7-3AA7-47DF-B52E-D85848F60BC8}.Debug|SmcDll x86.Build.0 = Debug|x86
+		{09413AD7-3AA7-47DF-B52E-D85848F60BC8}.Release|SmcDll x86.ActiveCfg = Release|x86
+		{09413AD7-3AA7-47DF-B52E-D85848F60BC8}.Release|SmcDll x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A670276-1B2D-4B3B-B1F3-A4A8D9CB26AD}
+	EndGlobalSection
+EndGlobal
